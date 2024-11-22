@@ -1,23 +1,23 @@
 # CS-408
 
-<style>a{text-decoration:none}</style>
 <div align="center">
-	<img src="https://img.shields.io/github/stars/suhan42/cs-408?style=social">
+<img src="https://img.shields.io/github/stars/suhan42/cs-408?style=social">
 	<div>
-        <a href="https://github.com/suhan42" target="_blank">
+        <a href="https://github.com/suhan42" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/Author-@suhan-purple.svg">
         </a>
-        <a href="https://blog.csdn.net/weixin_51350847" target="_blank">
+        <a href="https://blog.csdn.net/weixin_51350847" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/blog-@suhan42-red.svg">
         </a>
         <img src="https://img.shields.io/github/repo-size/suhan42/cs-408">
 	</div>
-    <div>
+	<div>
         <img src="https://img.shields.io/github/created-at/suhan42/cs-408">
         <img src="https://img.shields.io/github/commit-activity/m/suhan42/cs-408">
         <img src="https://img.shields.io/github/last-commit/suhan42/cs-408">
     </div>
 </div>
+
 
 ---
 
@@ -70,6 +70,7 @@
   - 2009-2013年计算机408真题完美打印版.pdf
 
 - dessert
+
   - 数学题型&考点
   - The-Art-of-Linear-Algebra-zh-CN.pdf
   - 英语语法

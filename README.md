@@ -1,4 +1,4 @@
-# CS-408
+<h1 align="center">CS-408</h1>
 
 <div align="center">
 <img src="https://img.shields.io/github/stars/suhan42/cs-408?style=social">
@@ -92,7 +92,7 @@
 
 ## 其他
 
-suhan用的markdown编辑器是 Typora。因为不同的markdown编辑器渲染不同，所以会有些微的差距:anger:。如：
+suhan用的markdown编辑器是 Typora。因为不同的markdown编辑器渲染不同，所以会有些微的差距。如：
 
 ==高亮==，下~标~，上^标^，还有数学公式的展示等。
 
@@ -100,7 +100,7 @@ suhan用的markdown编辑器是 Typora。因为不同的markdown编辑器渲染�
 
 ---
 
-suhan今天找到以前看的blog发现已经看不了，因为收费了😢。所以码字不易，希望大家点点<font size="10">⭐Star</font>，suhan会继续更新的！
+suhan今天找到以前看的blog发现已经看不了，因为收费了😢。所以码字不易，希望大家点点<font size="10">**⭐Star**</font>，suhan会继续更新的！
 
 
 

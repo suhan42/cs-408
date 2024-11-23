@@ -90,6 +90,20 @@
 
 
 
+## 其他
+
+suhan用的markdown编辑器是 Typora。因为不同的markdown编辑器渲染不同，所以会有些微的差距:anger:。如：
+
+==高亮==，下~标~，上^标^，还有数学公式的展示等。
+
+所以也推荐使用Typora来阅读。
+
+---
+
+suhan今天找到以前看的blog发现已经看不了，因为收费了😢。所以码字不易，希望大家点点<font size="10">⭐Star</font>，suhan会继续更新的！
+
+
+
 ## 部分展示
 
 ![display](imgs/display.png)

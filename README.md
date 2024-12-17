@@ -62,6 +62,8 @@
 
 - **计算机网络**
 
+  - [计算机网络-408考研重点](https://github.com/suhan42/cs-408/blob/main/计算机网络CN25'/计算机网络-408考研重点.md)
+
 - 408真题
 
   - 2009-2016真题&答案
@@ -70,9 +72,9 @@
 
 - dessert
 
-  - 数学题型&考点
+  - [数学题型&考点](https://github.com/suhan42/cs-408/blob/main/dessert/数学题型%26考点.md)
   - The-Art-of-Linear-Algebra-zh-CN.pdf
-  - 英语语法
+  - [英语语法](https://github.com/suhan42/cs-408/blob/main/dessert/英语语法.md)
 
 
 

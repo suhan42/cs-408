@@ -24,7 +24,7 @@
 
 ## 目录
 
-> 每个专题的目录不进行细节章节展示目录（数据结构为例），可以去里面看每个章节的目录。
+> 每个专题的目录不进行细节章节展示，可以去里面看每个章节的目录。
 
 - 408计算机学科专业基础综合考试大纲.pdf
 
@@ -54,15 +54,26 @@
 
 - **计算机组成原理**
 
-  - ……
+  - [1.计算机系统](https://github.com/suhan42/cs-408/blob/main/计算机组成原理CO45'/1.计算机系统.md)
+  - [2.数据的表示和运算](https://github.com/suhan42/cs-408/blob/main/计算机组成原理CO45'/2.数据的表示和运算.md)
+  - [3.存储系统](https://github.com/suhan42/cs-408/blob/main/计算机组成原理CO45'/3.存储系统.md)
+  - [4.指令系统](https://github.com/suhan42/cs-408/blob/main/计算机组成原理CO45'/4.指令系统.md)
+  - [5.中央处理器](https://github.com/suhan42/cs-408/blob/main/计算机组成原理CO45'/5.中央处理器.md)
+  - [6.总线](https://github.com/suhan42/cs-408/blob/main/计算机组成原理CO45'/6.总线.md)
+  - [7.输入输出(I/O)系统](https://github.com/suhan42/cs-408/blob/main/计算机组成原理CO45'/7.输入输出系统.md)
 
 - **操作系统**
 
-  - ……
+  - [1.操作系统](https://github.com/suhan42/cs-408/blob/main/操作系统OS35'/1.操作系统.md)
+  - [2.进程与线程](https://github.com/suhan42/cs-408/blob/main/操作系统OS35'/2.进程与线程.md)
+  - [3.内存管理](https://github.com/suhan42/cs-408/blob/main/操作系统OS35'/3.内存管理.md)
+  - [4.文件管理](https://github.com/suhan42/cs-408/blob/main/操作系统OS35'/4.文件管理.md)
+  - [5.输入输出(I/O)管理](https://github.com/suhan42/cs-408/blob/main/操作系统OS35'/5.输入输出(IO)管理.md)
 
 - **计算机网络**
 
-  - [计算机网络-408考研重点](https://github.com/suhan42/cs-408/blob/main/计算机网络CN25'/计算机网络-408考研重点.md)
+  - [计算机网络总结 - 408考研重点](https://github.com/suhan42/cs-408/blob/main/计算机网络CN25'/计算机网络-408考研重点.md)
+  - [划分子网例子](https://github.com/suhan42/cs-408/blob/main/计算机网络CN25'/划分子网.md)
 
 - 408真题
 
@@ -82,13 +93,17 @@
 
 [![](https://img.shields.io/badge/blog-@suhan42-rightgreen)](https://blog.csdn.net/weixin_51350847)
 
-不想下载的可以看CSDN，但是CSDN更新不如GitHub即时，只能说是CSDN聊胜于无
+不想下载的可以看CSDN，但是CSDN更新不如GitHub及时，只能说是聊胜于无了。
 
-[数据结构_Suhan42的博客-CSDN博客](https://blog.csdn.net/weixin_51350847/category_12593927.html)
+[数据结构_Suhan42的博客](https://blog.csdn.net/weixin_51350847/category_12593927.html)
 
-[计算机组成原理_Suhan42的博客-CSDN博客](https://blog.csdn.net/weixin_51350847/category_12596653.html)
+[计算机组成原理_Suhan42的博客](https://blog.csdn.net/weixin_51350847/category_12596653.html)
 
-[操作系统_Suhan42的博客-CSDN博客](https://blog.csdn.net/weixin_51350847/category_12759078.html)
+[操作系统_Suhan42的博客](https://blog.csdn.net/weixin_51350847/category_12759078.html)
+
+[考研_Suhan42的博客](https://blog.csdn.net/weixin_51350847/category_12853039.html)
+
+[计算机相关_Suhan42的博客](https://blog.csdn.net/weixin_51350847/category_12773871.html)
 
 
 
